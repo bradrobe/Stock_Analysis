@@ -11,7 +11,7 @@ Results:
 The first screen shot will show the For Loop code to extract data on DAQO or DQ’s performance.  The code stated that we searched for column A from the first row to the very last row of the column.  We then came back up and found the last row with data.  Once we found the data we searched for stock DQ.  Once it was found we found the starting and ending price to find our return.  Which you will see in the 2nd image.  And it shows DQ’s performance was a negative 62.6%
 
 Image 2a.
-![This is an image]
+![This is an image](https://github.com/bradrobe/Stock_Analysis/blob/main/DQ%20Analysis%20Code.png)
  
 
 Image 2b:
