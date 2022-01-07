@@ -14,9 +14,9 @@ Image 2a.
  
 
 Image 2b:
-![image
-   
+![This is an image](https://github.com/bradrobe/Stock_Analysis/blob/main/2018%20All%20Stock%20Analysis.png)
 
+  
 Summary:
 
 Refactoring coding in general has advantages and disadvantages.  The advantage to refactoring a code is that it can make it a better code, more efficient.  
