@@ -12,6 +12,7 @@ The first screen shot will show the For Loop code to extract data on DAQO or DQâ
 
 ### Image 2a.
 ![This is an image](https://github.com/bradrobe/Stock_Analysis/blob/main/DQ%20Analysis%20Code.png)
+![This is an image](https://github.com/bradrobe/Stock_Analysis/blob/main/Highlighted%20code.png)
  
 
 ### Image 2b:
