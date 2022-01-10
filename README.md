@@ -15,7 +15,7 @@ The first screen shot will show the For Loop code to extract data on DAQO or DQâ
  
 
 ### Image 2b:
-![This is an image](VBA_Challenge_2017.png
+![This is an image](https://github.com/bradrobe/Stock_Analysis/blob/main/VBA_Challenge_2017.png)
 
 
   
